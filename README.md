@@ -6,6 +6,6 @@
 <p> Distributed under the MIT software license, see the accompanying </p>
 <p> file LICENSE.txt or https://opensource.org/licenses/MIT </p>
 
-# Game Concept
+# Concept
 
  ![concept](/imagem.jpg)

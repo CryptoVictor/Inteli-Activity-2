@@ -8,4 +8,4 @@
 
 # Concept
 
- ![concept](/imagem.jpg)
+ ![concept](/autoestudo/imagem.jpg)
